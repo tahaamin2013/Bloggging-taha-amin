@@ -3,7 +3,7 @@ layout: ../../layouts/MarkdownPostLayout.astro
 title: "Niche Selection Criteria: A Guide to Finding Profitable Niches
 "
 image:
-  url: "Asset/niche-selection-criteria-a-guide-to-finding-profi-upscaled.png"
+  url: "src/pages/Asset/niche-selection-criteria-a-guide-to-finding-profi-upscaled.png"
   alt: "A Strategic Guide to Low-Competition, High-Profitability Ventures"
 pubDate: 2023-09-13
 description: ""
